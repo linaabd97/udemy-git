@@ -1,3 +1,3 @@
-## Udemy.git course
+## Udemy. introduction to git and github course
 ### first assigment
-name: lina abd
+*name: lina abd
