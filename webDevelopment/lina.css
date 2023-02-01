@@ -1,0 +1,40 @@
+h1{
+  background-color:gray;
+  font-size:40px;
+
+}
+
+body{
+  border:3px solid black;
+  color:green;
+}
+.bluecolor{
+  color:blue;
+}
+
+
+table{
+  border:5px double black;
+  border-collapse:collapse;
+}
+th,td{
+  border-width:3px;
+  border-style:dotted;
+  border-color:black;
+
+}
+p{
+  color:#800080;
+  font-family:'Brush Script MT', cursive;
+  font-size:1.25em;
+  font-style:italic;
+  font-weight:lighter;
+  text-align:left;
+}
+img{
+  float:right;
+}
+  h2{
+    text-align:center;
+    background-color:#48D1CC
+  }
